@@ -1,0 +1,3 @@
+include ':app', ':BluetoothTransmission'
+rootProject.name = "Bluetoothmodel"
+
